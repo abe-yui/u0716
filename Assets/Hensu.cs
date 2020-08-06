@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-
-//using UnityEngine;
+using UnityEngine;
 
 public class Hensu : UnityEngine.MonoBehaviour
 {
@@ -15,7 +14,7 @@ public class Hensu : UnityEngine.MonoBehaviour
 
         vx = 10;
         UnityEngine.Debug.Log(vx);
-        UnityEngine.Debag.Log(vx);
+       
     }
 
     public void ensyu72()
